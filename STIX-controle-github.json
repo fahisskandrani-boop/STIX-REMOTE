@@ -9,7 +9,7 @@
       "id": "chut",
       "title": "Information",
       "body": "Message modifiable depuis GitHub.",
-      "dismissible": true
+      "dismissible": false
     }
   ],
   "effect": "snow",
@@ -19,14 +19,16 @@
   },
   "disabled_players": [],
   "subscribe_gate": {
-    "enabled": false,
+    "enabled": true,
     "telegram": "https://t.me/appstreamvf",
     "tiktok": "https://www.tiktok.com/@appstreamvf"
   },
   "player_switch_seconds": 0,
   "disabled_providers": [],
-  "kill_playback": true,
-  "force_close": true,
+  "kill_playback": false,
+  "force_close": false,
   "require_code": true,
-  "access_codes": []
+  "access_codes": [
+    "AAA"
+  ]
 }
