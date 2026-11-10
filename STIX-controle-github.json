@@ -28,8 +28,8 @@
   "disabled_providers": [
     "frenchmanga"
   ],
-  "kill_playback": false,
-  "force_close": false,
+  "kill_playback": true,
+  "force_close": true,
   "require_code": true,
   "access_codes": [
     "stix"
