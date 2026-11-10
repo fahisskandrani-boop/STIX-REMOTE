@@ -29,7 +29,7 @@
     "frenchmanga"
   ],
   "kill_playback": true,
-  "force_close": true,
+  "force_close": false,
   "require_code": true,
   "access_codes": [
     "stix"
