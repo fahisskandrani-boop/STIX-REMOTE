@@ -1,35 +1,32 @@
 {
-  "maintenance": false,
-  "maintenance_message": "Stix est en maintenance. Reviens dans quelques minutes.",
-
+  "maintenance": true,
+  "maintenance_message": "Stix est en maintenance. Reviens plus tard.",
   "min_version_code": 0,
-  "update_url": "https://www.mediafire.com/file/xxxxx/stix.apk",
-  "update_message": "Une nouvelle version de Stix est obligatoire. Télécharge-la pour continuer.",
-
+  "update_url": "",
+  "update_message": "Une nouvelle version de Stix est obligatoire.",
   "messages": [
     {
-      "id": "info1",
+      "id": "chut",
       "title": "Information",
-      "body": "Nouveau message modifiable à distance depuis GitHub.",
-      "dismissible": true
+      "body": "Message modifiable depuis GitHub.",
+      "dismissible": false
     }
   ],
-
-  "effect": "none",
-
-  "forced_players": [
-    { "tmdb": "634649", "name": "Spider-Man", "url": "https://exemple.com/spiderman.mp4" }
-  ],
-
+  "effect": "snow",
+  "forced_players": [],
   "url_overrides": {
     "wiflix": ""
   },
-
   "disabled_players": [],
-
   "subscribe_gate": {
     "enabled": false,
     "telegram": "https://t.me/appstreamvf",
     "tiktok": "https://www.tiktok.com/@appstreamvf"
-  }
+  },
+  "player_switch_seconds": 0,
+  "disabled_providers": [],
+  "kill_playback": false,
+  "force_close": true,
+  "require_code": false,
+  "access_codes": []
 }
