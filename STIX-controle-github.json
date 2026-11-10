@@ -28,7 +28,7 @@
   "disabled_providers": [
     "frenchmanga"
   ],
-  "kill_playback": true,
+  "kill_playback": false,
   "force_close": false,
   "require_code": true,
   "access_codes": [
