@@ -25,8 +25,8 @@
   },
   "player_switch_seconds": 15,
   "disabled_providers": [],
-  "kill_playback": true,
-  "force_close": true,
+  "kill_playback": false,
+  "force_close": false,
   "require_code": true,
   "access_codes": [
     "stix"
