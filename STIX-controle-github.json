@@ -6,10 +6,10 @@
   "update_message": "Une nouvelle version de Stix est obligatoire.",
   "messages": [
     {
-      "id": "chut",
+      "id": "bonjour",
       "title": "Information",
-      "body": "Message modifiable depuis GitHub.",
-      "dismissible": false
+      "body": "🚀 **Bienvenue sur STIX – Version Bêta V1 !**\n\nSi un titre met du temps à charger, c'est normal en version bêta. Merci de patienter quelques instants avant de changer de lecteur\n\nL'application est actuellement en version bêta. Des bugs et des problèmes peuvent encore survenir, c'est normal à ce stade.\n\n**Votre aide est précieuse !**\n- Signalez-moi tous les problèmes rencontrés.\n- Indiquez-moi les lecteurs qui ne fonctionnent pas.\n- Pour améliorer le chargement, pensez à régler la vitesse du lecteurs dans les paramètres du lecteur sur **15**.\n- De nombreux nouveaux lecteurs seront ajoutés prochainement !\n\n⚠️ **En cas de crash :** si l'application se ferme et affiche un code d'erreur, merci de me transmettre ce code afin que je puisse identifier et corriger le problème.\n\nSTIX évolue grâce à vos retours. Merci pour votre patience, votre aide et votre compréhension !\n\n**Ce n'est que le début ! ❤️**",
+      "dismissible": true
     }
   ],
   "effect": "snow",
@@ -23,12 +23,12 @@
     "telegram": "https://t.me/appstreamvf",
     "tiktok": "https://www.tiktok.com/@appstreamvf"
   },
-  "player_switch_seconds": 0,
+  "player_switch_seconds": 15,
   "disabled_providers": [],
   "kill_playback": false,
   "force_close": false,
   "require_code": true,
   "access_codes": [
-    "AAA"
+    "stix"
   ]
 }
