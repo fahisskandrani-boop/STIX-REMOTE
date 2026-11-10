@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "Stix est en maintenance. Reviens plus tard.",
   "min_version_code": 0,
   "update_url": "",
@@ -9,7 +9,7 @@
       "id": "chut",
       "title": "Information",
       "body": "Message modifiable depuis GitHub.",
-      "dismissible": false
+      "dismissible": true
     }
   ],
   "effect": "snow",
@@ -25,8 +25,8 @@
   },
   "player_switch_seconds": 0,
   "disabled_providers": [],
-  "kill_playback": false,
-  "force_close": false,
-  "require_code": false,
+  "kill_playback": true,
+  "force_close": true,
+  "require_code": true,
   "access_codes": []
 }
