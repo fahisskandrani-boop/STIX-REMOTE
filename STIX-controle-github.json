@@ -8,14 +8,15 @@
     {
       "id": "bonjour",
       "title": "Information",
-      "body": "🚀 **Bienvenue sur STIX – Version Bêta V1 !**\n\nSi un titre met du temps à charger, c'est normal en version bêta. Merci de patienter quelques instants avant de changer de lecteur\n\nL'application est actuellement en version bêta. Des bugs et des problèmes peuvent encore survenir, c'est normal à ce stade.\n\n**Votre aide est précieuse !**\n- Signalez-moi tous les problèmes rencontrés.\n- Indiquez-moi les lecteurs qui ne fonctionnent pas.\n- Pour améliorer le chargement, pensez à régler la vitesse du lecteurs dans les paramètres du lecteur sur **15**.\n- De nombreux nouveaux lecteurs seront ajoutés prochainement !\n\n⚠️ **En cas de crash :** si l'application se ferme et affiche un code d'erreur, merci de me transmettre ce code afin que je puisse identifier et corriger le problème.\n\nSTIX évolue grâce à vos retours. Merci pour votre patience, votre aide et votre compréhension !\n\n**Ce n'est que le début ! ❤️**",
+      "body": "🚀 **BIENVENUE SUR STIX – VERSION BÊTA V1 !**\n\nSTIX est actuellement en version bêta. Des bugs et des problèmes peuvent encore survenir, c'est normal à ce stade.\n\n⏳ **Concernant le chargement :**\nSi un titre met du temps à charger, pas d'inquiétude ! C'est possible en version bêta. Merci de patienter quelques instants avant de changer de lecteur.\n\n⚠️ **LECTEURS TEMPORAIREMENT INDISPONIBLES**\n- Wiflix : ne fonctionne pas actuellement.\n- French Manga : ne fonctionne pas actuellement.\n\nUne correction est prévue dès demain.\n\n🔄 **MISES À JOUR**\nLes mises à jour seront automatiques. Vous n'aurez rien à faire !\n\n**🙏 VOTRE AIDE EST PRÉCIEUSE !**\n\n- Signalez-moi tous les problèmes rencontrés.\n- Indiquez-moi les lecteurs qui ne fonctionnent pas.\n- Pour optimiser le chargement, pensez à régler la **vitesse des lecteurs sur 15** dans les paramètres du lecteur.\n- De nombreux nouveaux lecteurs arriveront prochainement !\n\n⚠️ **EN CAS DE CRASH**\n\nSi l'application se ferme brutalement et affiche un code d'erreur, merci de me transmettre ce code. Il me permettra d'identifier et de corriger le problème rapidement.\n\n❤️ **STIX NE FAIT QUE COMMENCER !**\n\nL'application va évoluer grâce à vos retours. De nombreuses améliorations et nouveautés sont à venir.\n\nMerci pour votre patience, votre aide et votre compréhension !\n\n**Bonne découverte à tous et bienvenue sur STIX ! 🚀**",
       "dismissible": true
     }
   ],
   "effect": "snow",
   "forced_players": [],
   "url_overrides": {
-    "aplouf": "https://ufrov.com/fve0tza/home/ufrov"
+    "aplouf": "https://ufrov.com/fve0tza/home/ufrov",
+    "wiflix": "https://flemmix.run/"
   },
   "disabled_players": [],
   "subscribe_gate": {
@@ -24,7 +25,9 @@
     "tiktok": "https://www.tiktok.com/@appstreamvf"
   },
   "player_switch_seconds": 15,
-  "disabled_providers": [],
+  "disabled_providers": [
+    "frenchmanga"
+  ],
   "kill_playback": false,
   "force_close": false,
   "require_code": true,
