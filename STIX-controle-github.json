@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "Stix est en maintenance. Reviens dans quelques minutes.",
 
   "min_version_code": 0,
