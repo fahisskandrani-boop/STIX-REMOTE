@@ -15,7 +15,7 @@
   "effect": "snow",
   "forced_players": [],
   "url_overrides": {
-    "wiflix": ""
+    "aplouf": "https://ufrov.com/fve0tza/home/ufrov"
   },
   "disabled_players": [],
   "subscribe_gate": {
@@ -25,8 +25,8 @@
   },
   "player_switch_seconds": 15,
   "disabled_providers": [],
-  "kill_playback": false,
-  "force_close": false,
+  "kill_playback": true,
+  "force_close": true,
   "require_code": true,
   "access_codes": [
     "stix"
