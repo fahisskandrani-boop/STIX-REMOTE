@@ -14,12 +14,10 @@
   ],
   "effect": "snow",
   "forced_players": [],
-  "url_overrides": {
-    "aplouf": "https://ufrov.com/fve0tza/home/ufrov"
-  },
+  "url_overrides": {},
   "disabled_players": [],
   "subscribe_gate": {
-    "enabled": true,
+    "enabled": false,
     "telegram": "https://t.me/appstreamvf",
     "tiktok": "https://www.tiktok.com/@appstreamvf"
   },
@@ -29,7 +27,7 @@
   ],
   "kill_playback": false,
   "force_close": false,
-  "require_code": true,
+  "require_code": false,
   "access_codes": [
     "stix"
   ]
