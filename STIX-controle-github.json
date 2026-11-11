@@ -15,8 +15,7 @@
   "effect": "snow",
   "forced_players": [],
   "url_overrides": {
-    "aplouf": "https://ufrov.com/fve0tza/home/ufrov",
-    "wiflix": "https://flemmix.run/"
+    "aplouf": "https://ufrov.com/fve0tza/home/ufrov"
   },
   "disabled_players": [],
   "subscribe_gate": {
