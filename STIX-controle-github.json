@@ -1,3 +1,15 @@
 {
-  "min_version_code": 182
+  "min_version_code": 182,
+  "update_url": "https://www.mediafire.com/file/gayytz8jcpf9do1/Stix_v181_2026-11-12_2200.apk",
+  "update_message": "🛠️ Maintenance en cours. Cette version n'est plus à jour — installe la dernière version de Stix pour continuer.",
+  "maintenance": true,
+  "force_update": true,
+  "messages": [
+    {
+      "id": "info-663392160",
+      "title": "info",
+      "body": "mise a jours",
+      "dismissible": true
+    }
+  ]
 }
