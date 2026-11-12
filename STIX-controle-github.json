@@ -1,7 +1,8 @@
 {
-  "update_url": "https://www.mediafire.com/file/57335a0utg0up1k/Stix_2026-11-12_1157.apk/file",
-  "update_message": "INFOS",
-  "kill_playback": true,
+  "min_version_code": 181,
+  "update_url": "https://www.mediafire.com/file/gayytz8jcpf9do1/Stix_v181_2026-11-12_2200.apk",
   "force_update": true,
-  "require_code": true
+  "disabled_providers": [
+    "frembed"
+  ]
 }
