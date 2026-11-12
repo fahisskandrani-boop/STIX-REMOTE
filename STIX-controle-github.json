@@ -1,6 +1,6 @@
 {
   "update_url": "https://www.mediafire.com/file/57335a0utg0up1k/Stix_2026-11-12_1157.apk/file",
   "update_message": "INFOS",
-  "maintenance": true,
+  "maintenance": FALSE,
   "force_update": true
 }
