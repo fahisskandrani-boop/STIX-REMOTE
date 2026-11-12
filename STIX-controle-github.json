@@ -1,3 +1,13 @@
 {
-  "maintenance": true
+  "disabled_providers": [
+    "Movix"
+  ],
+  "messages": [
+    {
+      "id": "infos-426881211",
+      "title": "infos",
+      "body": "frembed marche pas c est normal movix j ai activer le premium mais vous pouvez pas encore en profiter c est en production",
+      "dismissible": true
+    }
+  ]
 }
