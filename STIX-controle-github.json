@@ -1,10 +1,6 @@
 {
-  "messages": [
-    {
-      "id": "infos-1974342543",
-      "title": "infos",
-      "body": "J’ai désactivé temporairement certains lecteurs, notamment Movix et Frembed. Le site Frembed a fermé et, concernant Movix, c’est une simple mesure de précaution pour éviter que ma clé VIP soit volée.  Je vais certainement réactiver certains lecteurs par la suite.  De mon côté, je continue à effectuer des vérifications et à corriger les codes.  Les catégories 18+ sont disponibles sur demande via Telegram. le premium arrive tres vite sur movix",
-      "dismissible": true
-    }
-  ]
+  "update_url": "https://www.mediafire.com/file/57335a0utg0up1k/Stix_2026-11-12_1157.apk/file",
+  "update_message": "INFOS",
+  "maintenance": true,
+  "force_update": true
 }
