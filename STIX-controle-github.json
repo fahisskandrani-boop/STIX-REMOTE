@@ -1,3 +1,22 @@
 {
-  "require_code": true
+  "min_version_code": 183,
+  "update_url": "https://www.mediafire.com/file/8dinbent9ev7h3e/STIX-moviebox-dessinanime-iptvfix_2026-11-13_0731.apk/file",
+  "update_message": "🛠️ Maintenance en cours. Cette version n'est plus à jour — installe la dernière version de Stix pour continuer.",
+  "force_update": true,
+  "disabled_providers": [
+    "Franime",
+    "DessinAnime"
+  ],
+  "messages": [
+    {
+      "id": "infos-1588440734",
+      "title": "infos",
+      "body": "🚀 **NOUVELLE MISE À JOUR !**  Découvrez toutes les nouveautés et améliorations :  **🆕 Nouvelles sources et nouveaux fournisseurs** - Ajout de nouvelles sources. - Ajout de nouveaux fournisseurs. - Ajout de Movix Premium gratuit. - Ajout de MovieBox.  **🎬 Nouveaux contenus** - Ajout de nouvelles bannières. - Ajout d'une catégorie IPTV. - Ajout de nombreux nouveaux lecteurs. - Et plein d'autres nouveautés à découvrir !  **▶️ Amélioration des lecteurs** - Nouvelle interface des lecteurs. - Ajout de nouveaux boutons. - Ajout des boutons Saison et Épisode pour faciliter la navigation.  **🔧 Réparations** - Frembed réparé. - Wiflix réparé.  **⚠️ Franime** Les dessins animés ne fonctionnent pas actuellement. Les sources seront réparées prochainement. En attendant, elles sont désactivées.  ❤️ Merci à tous pour votre soutien et bon streaming à tous !",
+      "dismissible": true
+    }
+  ],
+  "require_code": true,
+  "access_codes": [
+    "stix"
+  ]
 }
