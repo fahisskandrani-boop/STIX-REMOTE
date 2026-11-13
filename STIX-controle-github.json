@@ -1,22 +1,18 @@
+json
 {
+  "maintenance": false,
   "min_version_code": 183,
-  "update_url": "https://www.mediafire.com/file/8dinbent9ev7h3e/STIX-moviebox-dessinanime-iptvfix_2026-11-13_0731.apk/file",
-  "update_message": "🛠️ Maintenance en cours. Cette version n'est plus à jour — installe la dernière version de Stix pour continuer.",
-  "force_update": true,
-  "disabled_providers": [
-    "Franime",
-    "DessinAnime"
-  ],
+  "force_update": false,
+  "force_close": false,
+  "cut_servers": false,
+  "update_url": "https://METS-TON-LIEN-APK-ICI",
+  "update_message": "Nouvelle version obligatoire. Télécharge-la pour continuer.",
   "messages": [
     {
-      "id": "infos-1588440734",
-      "title": "infos",
-      "body": "🚀 **NOUVELLE MISE À JOUR !**  Découvrez toutes les nouveautés et améliorations :  **🆕 Nouvelles sources et nouveaux fournisseurs** - Ajout de nouvelles sources. - Ajout de nouveaux fournisseurs. - Ajout de Movix Premium gratuit. - Ajout de MovieBox.  **🎬 Nouveaux contenus** - Ajout de nouvelles bannières. - Ajout d'une catégorie IPTV. - Ajout de nombreux nouveaux lecteurs. - Et plein d'autres nouveautés à découvrir !  **▶️ Amélioration des lecteurs** - Nouvelle interface des lecteurs. - Ajout de nouveaux boutons. - Ajout des boutons Saison et Épisode pour faciliter la navigation.  **🔧 Réparations** - Frembed réparé. - Wiflix réparé.  **⚠️ Franime** Les dessins animés ne fonctionnent pas actuellement. Les sources seront réparées prochainement. En attendant, elles sont désactivées.  ❤️ Merci à tous pour votre soutien et bon streaming à tous !",
+      "id": "maj-13nov",
+      "title": "🚀 NOUVELLE MISE À JOUR !",
+      "body": "Découvrez les nouveautés :\n\n**🆕 Nouvelles sources & fournisseurs**\n- Nouvelles sources\n- Movix Premium gratuit\n- MovieBox\n\n**🎬 Nouveaux contenus**\n- Nouvelles bannières\n- Catégorie IPTV\n- Nombreux nouveaux lecteurs\n\n**▶️ Lecteurs**\n- Nouvelle interface\n- Boutons Saison et Épisode\n\n**🔧 Réparations**\n- Frembed réparé\n- Wiflix réparé\n\n**⚠️ Franime**\nLes dessins animés ne marchent pas pour l'instant, sources désactivées, réparation bientôt.\n\n❤️ Merci et bon streaming !",
       "dismissible": true
     }
-  ],
-  "require_code": true,
-  "access_codes": [
-    "stix"
   ]
 }
