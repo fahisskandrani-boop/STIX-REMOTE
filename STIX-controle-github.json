@@ -1,1 +1,13 @@
-
+json
+{
+  "maintenance": false,
+  "force_update": false,
+  "force_close": false,
+  "cut_servers": false,
+  "min_version_code": 0,
+  "disabled_providers": [],
+  "disabled_players": [],
+  "provider_rules": {},
+  "url_overrides": {},
+  "messages": []
+}
