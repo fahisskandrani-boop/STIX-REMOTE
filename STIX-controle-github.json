@@ -1,18 +1,1 @@
-json
-{
-  "maintenance": false,
-  "min_version_code": 183,
-  "force_update": false,
-  "force_close": false,
-  "cut_servers": false,
-  "update_url": "https://METS-TON-LIEN-APK-ICI",
-  "update_message": "Nouvelle version obligatoire. Télécharge-la pour continuer.",
-  "messages": [
-    {
-      "id": "maj-13nov",
-      "title": "🚀 NOUVELLE MISE À JOUR !",
-      "body": "Découvrez les nouveautés :\n\n**🆕 Nouvelles sources & fournisseurs**\n- Nouvelles sources\n- Movix Premium gratuit\n- MovieBox\n\n**🎬 Nouveaux contenus**\n- Nouvelles bannières\n- Catégorie IPTV\n- Nombreux nouveaux lecteurs\n\n**▶️ Lecteurs**\n- Nouvelle interface\n- Boutons Saison et Épisode\n\n**🔧 Réparations**\n- Frembed réparé\n- Wiflix réparé\n\n**⚠️ Franime**\nLes dessins animés ne marchent pas pour l'instant, sources désactivées, réparation bientôt.\n\n❤️ Merci et bon streaming !",
-      "dismissible": true
-    }
-  ]
-}
+
